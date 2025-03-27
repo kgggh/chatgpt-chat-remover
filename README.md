@@ -31,6 +31,8 @@ ChatGPT에서 이전 대화 기록을 빠르게 삭제할 수 있도록 도와�
 - 선택된 대화 ID를 `background`에 메시지로 전달
 - background에서 accessToken 포함하여 ChatGPT API에 `PATCH` 요청
 
+![chatgpt-chat-remover 시연](demo.gif)
+
 ## 발자 참고 사항
 
 - accessToken은 ChatGPT 내부 enqueue 함수 호출 스크립트를 파싱하여 추출
