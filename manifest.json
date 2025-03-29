@@ -3,7 +3,6 @@
   "name": "ChatGPT Chat Remover",
   "version": "1.0",
   "description": "Select and delete multiple chats in ChatGPT.",
-  "permissions": ["scripting", "activeTab"],
   "host_permissions": ["https://chatgpt.com/*"],
   "action": {
     "default_icon": {
