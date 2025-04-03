@@ -45,8 +45,7 @@ ChatGPT를 자주 쓰는 입장에서 쌓여가는 채팅 기록이 신경 쓰�
 
 ## 배포 상태
 
-- Chrome Web Store 등록 완료 (현재 **검토 중**입니다)
-- 로컬 환경에서도 설치하여 사용 가능합니다
+- Chrome Web Store 등록 완료 - [링크](https://chromewebstore.google.com/detail/chatgpt-chat-remover/phmfclnecknfopohajjkdacfhbmhjako?hl=ko&authuser=0)
 
 ## License
 
