@@ -33,16 +33,6 @@ ChatGPT에서 이전 대화 기록을 빠르게 삭제할 수 있도록 도와�
 
 ![chatgpt-chat-remover 시연](demo.gif)
 
-## 발자 참고 사항
-
-- accessToken은 ChatGPT 내부 enqueue 함수 호출 스크립트를 파싱하여 추출
-- React SPA 구조 대응을 위해 `MutationObserver`를 통해 버튼이 항상 유지되도록 처리
-
-## 왜 만들었나요?
-
-ChatGPT를 자주 쓰는 입장에서 쌓여가는 채팅 기록이 신경 쓰여 직접 만들게 되었습니다.  
-프론트엔드 경험은 없지만, GPT의 도움을 받아 처음 구조를 잡고 이후 디버깅을 통해 마무리했습니다.
-
 ## 배포 상태
 
 - Chrome Web Store 등록 완료 - [링크](https://chromewebstore.google.com/detail/chatgpt-chat-remover/phmfclnecknfopohajjkdacfhbmhjako?hl=ko&authuser=0)
